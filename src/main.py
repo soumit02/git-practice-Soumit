@@ -1,7 +1,8 @@
 import datetime
-from utils import add, subtract
+from utils import add, subtract, multiply
 
 print("Soumit Dey")
 print("Today's date is:", datetime.date.today())
 print(add(5,6))
 print(subtract(4,3))
+print(multiply(7,8))
